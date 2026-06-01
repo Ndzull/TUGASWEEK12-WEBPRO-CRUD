@@ -4,7 +4,8 @@ NRP: 2043251046<br>
 Kelas: 2A Statistika Bisnis<br>
 </b>
 <h2>Deskripsi Tugas</h2>
-<p>Dalam tugas ini, Anda diminta untuk membuat sebuah halaman login sederhana menggunakan fitur CRUD (Create, Read, Update, Delete) untuk mengelola data pengguna.<br>
+<p>Tugas yang diberikan adalah membuat sebuah halaman login sederhana menggunakan fitur CRUD (Create, Read, Update, Delete) untuk mengelola data pengguna.<br>
+<br>
 Ada beberapa variabel yang saya buat untuk tugas ini, yaitu:<br>
 Data User:<br>
 1. Nama Depan<br>
@@ -14,9 +15,9 @@ Data User:<br>
 5. Jenis Kelamin<br>
 6. Alamat<br>
 7. Email<br>
-8. Password<br></p>
-<br>Data List:<br>
+8. Password<br>
+Data List:<br>
 1. Nama List<br>
 2. Deskripsi<br>
-<image src="dbio.png" alt="data" width="200"><br>
+<image src="assets/dbio.png" alt="data" width="200"><br>
 
